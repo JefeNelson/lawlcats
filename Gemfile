@@ -30,6 +30,9 @@ gem 'jbuilder', '~> 2.5'
 #include bootstrap
 gem 'bootstrap', '~> 4.0.0.alpha6'
 
+#include simple_form
+gem 'simple_form'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
